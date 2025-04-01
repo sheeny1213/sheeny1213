@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about both web and app development,
 
 ## About Me
 
-- **Interests**: Web Development 
+- **Interests**: Software Engineer, Full-stack Developer, Web Development 
 - **Technologies**: C++, ReactJS, NodeJS, MongoDB
 - **Collaboration**: Always looking to collaborate on open source projects!
 <h3 align="left">Connect with me:</h3>
