@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandhya Raj</h1>
-<h3 align="center">CSE Graduate at BIT, Mesra 💻 || Full Stack Web Developer 👨‍💻 </h3>
+<h3 align="center">CSE Graduate at BIT, Mesra 💻 || Software Developer 👨‍💻 </h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-Welcome to my GitHub profile! I'm passionate about both web and app development, and I'm constantly exploring new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm passionate about  software development, and I'm constantly exploring new technologies to enhance my skills.
 
 ## About Me
 
-- **Interests**: Web Development 
+- **Interests**: Developer(Software/Web/Mern) 
 - **Technologies**: C++, ReactJS, NodeJS, MongoDB
 - **Collaboration**: Always looking to collaborate on open source projects!
 <h3 align="left">Connect with me:</h3>
