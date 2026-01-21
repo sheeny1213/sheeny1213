@@ -51,14 +51,14 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs
 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 Welcome to my GitHub profile!  
-I am a **Java Backend Developer** with hands-on experience in building **scalable, secure, and enterprise-level backend applications** using **Spring Boot and Microservices architecture**. I am passionate about clean code, system design, and solving real-world backend problems.
+I am a **Java Developer** with hands-on experience in building **scalable, secure, and enterprise-level backend applications** using **Spring Boot and Microservices architecture**. I am passionate about clean code, system design, and solving real-world backend problems.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science Engineering** from **BIT Mesra** (GPA: 8.38)
-- 💼 **Java Developer at 6ixwebsoft (2024 – Present)**
+- 💼 **Java Developer at 6ixwebsoft **
 - 🔧 Skilled in **Java, Spring Boot, Spring Cloud**
 - 🔐 Experience with **OAuth2 & JWT-based authentication**
 - 🧠 Strong understanding of **Microservices, REST APIs & Databases**
