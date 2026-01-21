@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhya Raj</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sandhya Raj</h1>
 <h3 align="center">CSE Graduate at BIT, Mesra 💻 || Software Developer 👨‍💻 </h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
@@ -40,4 +40,16 @@ I am actively looking for opportunities to contribute to open-source projects. I
 ---
 
 Thank you for visiting my profile!
+ -->
 
+
+<h1 align="center">Hi 👋, I'm Sandhya Raj</h1>
+<h3 align="center">
+Java Backend Developer | Spring Boot | Microservices | REST APIs
+</h3>
+
+<img align="right" alt="coding" width="400"
+src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+
+Welcome to my GitHub profile!  
+I am a **Java Developer** with hands-on experience in building **scalable, secure, and enterprise-grade backend applications** using **Spring Boot and Microservices architecture**. I enjoy designing clean systems, solving backend problems, and working on real-world applications.
